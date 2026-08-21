@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammad Abir 👋</h1>
+<h1 align="center">Hi there, I'm Abir Hossain 👋</h1>
 
 <h3 align="center">Building web apps, scrapers, and automation tools that just work</h3>
 
