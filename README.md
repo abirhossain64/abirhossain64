@@ -45,12 +45,12 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abirhossain"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://abirhossain.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://t.me/abirhossain"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://facebook.com/m.abir404"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://x.com/muhammadabir404"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:muhammadabir404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abirhossain64"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://abirhossain64.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://t.me/abirhossain64"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://facebook.com/abirhossain313"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://x.com/abirhossain64"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:abirhossain@proton.me"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
