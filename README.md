@@ -30,7 +30,7 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirhossain&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirhossain64&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -47,9 +47,4 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abirhossain.abirhossain&color=2E9EF7&style=flat-square" />
-</p>
-
 <p align="center"><i>Feel free to reach out to discuss collaboration opportunities or if you have any questions!</i></p>
