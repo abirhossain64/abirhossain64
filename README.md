@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+Flask+%7C+FastAPI;Node.js+%7C+Express+%7C+React+%7C+Svelte;PHP+%7C+Laravel+%7C+WordPress;Building+robust%2C+scalable+web+apps" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/abirhossain64"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://abirhossain64.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://t.me/abirhossain64"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:abirhossain@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
