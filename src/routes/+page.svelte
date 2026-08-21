@@ -1,4 +1,4 @@
-<script>
+﻿<script>
 import { onMount } from "svelte";
 import SkillCarouselHeader from "$lib/components/SkillCarouselHeader.svelte";
 import SkillCarouselRight from "$lib/components/SkillCarouselRight.svelte";
@@ -308,9 +308,9 @@ onMount(async () => {
                     </div>
                     <div class="ps-3 h-100">
                         <span class="text-400 fs-6">Telegram</span>
-                        <h6 class="mb-0">@muhammadabir64</h6>
+                        <h6 class="mb-0">@abirhossain</h6>
                     </div>
-                    <a href="https://t.me/muhammadabir64" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
+                    <a href="https://t.me/abirhossain" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
                 </div>
                 <div class="d-flex align-items-center mb-3 position-relative d-inline-flex">
                     <div class="d-inline-block">
@@ -322,7 +322,7 @@ onMount(async () => {
                         <span class="text-400 fs-6">Linkedin</span>
                         <h6 class="mb-0">Muhammad ABir</h6>
                     </div>
-                    <a href="https://www.linkedin.com/in/muhammadabir64" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
+                    <a href="https://www.linkedin.com/in/abirhossain" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
                 </div>
                 <div class="d-flex align-items-center mb-3 position-relative d-inline-flex">
                     <div class="d-inline-block">

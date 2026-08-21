@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abir Hossain 👋</h1>
+﻿<h1 align="center">Hi there, I'm Abir Hossain 👋</h1>
 
 <h3 align="center">Building web apps, scrapers, and automation tools that just work</h3>
 
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammadabir64"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://muhammadabir64.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://t.me/muhammadabir64"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abirhossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://abirhossain.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://t.me/abirhossain"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:muhammadabir404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -37,7 +37,7 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabir64&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirhossain&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,9 +45,9 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammadabir64"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://muhammadabir64.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://t.me/muhammadabir64"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abirhossain"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://abirhossain.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://t.me/abirhossain"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://facebook.com/m.abir404"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://x.com/muhammadabir404"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:muhammadabir404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -56,7 +56,7 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammadabir64.muhammadabir64&color=2E9EF7&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abirhossain.abirhossain&color=2E9EF7&style=flat-square" />
 </p>
 
 <p align="center"><i>Feel free to reach out to discuss collaboration opportunities or if you have any questions!</i></p>

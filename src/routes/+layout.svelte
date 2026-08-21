@@ -1,4 +1,4 @@
-<script>
+﻿<script>
 import { onMount, afterUpdate } from "svelte";
 import { activeSection } from "../stores";
 
@@ -136,7 +136,7 @@ afterUpdate(() => {
                 <p class="fs-6 fw-medium text-200 mb-5">Have a project in mind?<br>I'd love to hear from you.</p>
                 <div class="mb-3">
                     <span class="text-400 text-secondary-2 fs-5">[Telegram]</span>
-                    <p class="mb-0"><a href="https://t.me/muhammadabir64" target="_blank">@muhammadabir64</a></p>
+                    <p class="mb-0"><a href="https://t.me/abirhossain" target="_blank">@abirhossain</a></p>
                 </div>
                 <div class="mb-3">
                     <span class="text-400 text-secondary-2 fs-5">[Email]</span>
@@ -186,7 +186,7 @@ afterUpdate(() => {
                         <div class="contact-list mb-30">
                             <div class="mb-3">
                                 <span class="text-400 text-secondary-2 fs-5">[Telegram]</span>
-                                <p class="mb-0"><a href="https://t.me/muhammadabir64" target="_blank">@muhammadabir64</a></p>
+                                <p class="mb-0"><a href="https://t.me/abirhossain" target="_blank">@abirhossain</a></p>
                             </div>
                             <div class="mb-3">
                                 <span class="text-400 text-secondary-2 fs-5">[Email]</span>
