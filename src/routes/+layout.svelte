@@ -186,11 +186,11 @@ afterUpdate(() => {
                         <div class="contact-list mb-30">
                             <div class="mb-3">
                                 <span class="text-400 text-secondary-2 fs-5">[Telegram]</span>
-                                <p class="mb-0"><a href="https://t.me/abirhossain" target="_blank">@abirhossain</a></p>
+                                <p class="mb-0"><a href="https://t.me/abirhossain64" target="_blank">@abirhossain64</a></p>
                             </div>
                             <div class="mb-3">
                                 <span class="text-400 text-secondary-2 fs-5">[Email]</span>
-                                <p class="mb-0"><a href="mailto:muhammadabir404@gmail.com" target="_blank">muhammadabir404@gmail.com</a></p>
+                                <p class="mb-0"><a href="mailto:abirhosssain@proton.me" target="_blank">abirhosssain@proton.me</a></p>
                             </div>
                         </div>
                     </div>
