@@ -25,7 +25,7 @@ onMount(async () => {
 </script>
 
 <svelte:head>
-    <title>Muhammad ABir</title>
+    <title>Abir Hossain</title>
 </svelte:head>
 
 <section id="about_me" class="section-hero-2 position-relative pt-130 pb-3">
