@@ -308,9 +308,9 @@ onMount(async () => {
                     </div>
                     <div class="ps-3 h-100">
                         <span class="text-400 fs-6">Telegram</span>
-                        <h6 class="mb-0">@abirhossain</h6>
+                        <h6 class="mb-0">@abirhossain64</h6>
                     </div>
-                    <a href="https://t.me/abirhossain" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
+                    <a href="https://t.me/abirhossain64" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
                 </div>
                 <div class="d-flex align-items-center mb-3 position-relative d-inline-flex">
                     <div class="d-inline-block">
@@ -320,9 +320,9 @@ onMount(async () => {
                     </div>
                     <div class="ps-3 h-100">
                         <span class="text-400 fs-6">Linkedin</span>
-                        <h6 class="mb-0">Muhammad ABir</h6>
+                        <h6 class="mb-0">Abir Hossain</h6>
                     </div>
-                    <a href="https://www.linkedin.com/in/abirhossain" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
+                    <a href="https://www.linkedin.com/in/abirhossain64" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
                 </div>
                 <div class="d-flex align-items-center mb-3 position-relative d-inline-flex">
                     <div class="d-inline-block">
@@ -332,9 +332,9 @@ onMount(async () => {
                     </div>
                     <div class="ps-3 h-100">
                         <span class="text-400 fs-6">Email</span>
-                        <h6 class="mb-0">muhammadabir404@gmail.com</h6>
+                        <h6 class="mb-0">abirhosssain@proton.me</h6>
                     </div>
-                    <a href="mailto:muhammadabir404@gmail.com" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
+                    <a href="mailto:abirhosssain@proton.me" class="position-absolute top-0 start-0 w-100 h-100" target="_blank" aria-label="btn"></a>
                 </div>
                 <div class="d-flex align-items-center mb-3 position-relative d-inline-flex">
                     <div class="d-inline-block">
@@ -344,7 +344,7 @@ onMount(async () => {
                     </div>
                     <div class="ps-3 h-100">
                         <span class="text-400 fs-6">Address</span>
-                        <h6 class="mb-0">mirpur 11, Dhaka</h6>
+                        <h6 class="mb-0">Tongi, Gazipur</h6>
                     </div>
                 </div>
             </div>
